@@ -1,0 +1,28 @@
+[CMake]
+Build Directory Count=2
+Current Build Directory Index=1
+ProjectRootRelative=./
+
+[CMake][CMake Build Directory 0]
+Build Directory Path=file:///home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/build
+Build Type=Debug
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///home/mgehrig2/git_repos/socketToRos/installx86
+
+[CMake][CMake Build Directory 1]
+Build Directory Path=file:///home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/buildx86
+Build Type=
+CMake Binary=file:///usr/bin/cmake
+Environment Profile=
+Extra Arguments=
+Install Directory=file:///home/mgehrig2/git_repos/socketToRos/installx86
+
+[Defines And Includes][Compiler]
+Name=GCC
+Path=gcc
+Type=GCC
+
+[Project]
+VersionControlSupport=kdevgit
