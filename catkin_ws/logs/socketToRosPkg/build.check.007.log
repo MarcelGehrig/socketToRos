@@ -1,0 +1,30 @@
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m This workspace overlays: /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel;/opt/ros/kinetic
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/mgehrig2/git_repos/socketToRos/catkin_ws/build/socketToRosPkg/test_results
+[36m--[0m Found gtest sources under '/usr/src/gtest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.6
+[36m--[0m Using these message generators: gencpp;geneus;genlisp;gennodejs;genpy
+[36m--[0m socketToRosPkg: 1 messages, 0 services
+[36m--[0m Configuring done
+[31m[1mCMake Error[0m at /home/mgehrig2/git_repos/socketToRos/catkin_ws/src/socketToRosPkg/CMakeLists.txt:117 (add_executable):
+  Cannot find source file:
+
+    src/socketToRos/socketToRosMain.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: socketToRos
+CMake Error: Cannot determine link language for target "socketToRos".
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/mgehrig2/git_repos/socketToRos/catkin_ws/build/socketToRosPkg
+Makefile:682: recipe for target 'cmake_check_build_system' failed
+make: *** [cmake_check_build_system] Error 1

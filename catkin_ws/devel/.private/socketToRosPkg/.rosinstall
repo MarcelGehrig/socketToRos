@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/setup.sh

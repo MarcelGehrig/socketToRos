@@ -1,0 +1,21 @@
+[31m[1mCMake Error[0m at /home/mgehrig2/git_repos/socketToRos/catkin_ws/src/socketToRosPkg/CMakeLists.txt:117 (add_executable):
+  Cannot find source file:
+
+    src/socketToRosMain.cpp
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Warning (dev) at CMakeLists.txt:120 (add_dependencies):
+  Policy CMP0046 is not set: Error on non-existent dependency in
+  add_dependencies.  Run "cmake --help-policy CMP0046" for policy details.
+  Use the cmake_policy command to set the policy and suppress this warning.
+
+  The dependency target "beginner_tutorials_generate_messages_cpp" of target
+  "socketToRos" does not exist.
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+CMake Error: CMake can not determine linker language for target: socketToRos
+CMake Error: Cannot determine link language for target "socketToRos".
+make: *** [cmake_check_build_system] Error 1

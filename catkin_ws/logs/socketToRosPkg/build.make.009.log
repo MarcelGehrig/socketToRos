@@ -1,0 +1,16 @@
+[35m[1mScanning dependencies of target socketToRos[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_py
+[ 11%] [32mBuilding CXX object CMakeFiles/socketToRos.dir/socketToRosMain.cpp.o[0m
+[ 11%] Built target std_msgs_generate_messages_lisp
+[ 11%] Built target std_msgs_generate_messages_eus
+[ 11%] Built target _socketToRosPkg_generate_messages_check_deps_float64_header
+[ 11%] Built target std_msgs_generate_messages_cpp
+[ 33%] Built target socketToRosPkg_generate_messages_py
+[ 44%] Built target socketToRosPkg_generate_messages_nodejs
+[ 55%] Built target socketToRosPkg_generate_messages_lisp
+[ 77%] Built target socketToRosPkg_generate_messages_eus
+[ 88%] Built target socketToRosPkg_generate_messages_cpp
+[ 88%] Built target socketToRosPkg_generate_messages
+[100%] [32m[1mLinking CXX executable /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/lib/socketToRosPkg/socketToRos[0m
+[100%] Built target socketToRos

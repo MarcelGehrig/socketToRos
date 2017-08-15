@@ -1,0 +1,1 @@
+/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/share/common-lisp/ros/socketToRosPkg/msg/_package.lisp

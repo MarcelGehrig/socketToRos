@@ -1,0 +1,1 @@
+/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/lib/python2.7/dist-packages/socketToRosPkg/msg/_float64_header.py
