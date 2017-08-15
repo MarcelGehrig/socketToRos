@@ -13,6 +13,22 @@ std_msgs/String.h
 /home/mgehrig2/git_repos/socketToRos/catkin_ws/src/socketToRosPkg/std_msgs/String.h
 sstream
 -
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+iostream
+-
+array
+-
+unistd.h
+-
+netdb.h
+-
+arpa/inet.h
+-
 
 /opt/ros/kinetic/include/ros/advertise_options.h
 ros/forwards.h
