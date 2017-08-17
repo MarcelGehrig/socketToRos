@@ -138,7 +138,6 @@ CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/LogEntry.hpp
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/LogWriter.hpp
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/Logger.hpp
-CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/ROSLogWriter.hpp
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/StreamLogWriter.hpp
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/Writer.hpp
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/math/Matrix.hpp
@@ -218,7 +217,6 @@ CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/rosconsole/m
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/sensor_msgs/FluidPressure.h
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/std_msgs/Header.h
-CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/std_msgs/String.h
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
 CMakeFiles/testappEEROSVT2.dir/main.cpp.o: /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h
 

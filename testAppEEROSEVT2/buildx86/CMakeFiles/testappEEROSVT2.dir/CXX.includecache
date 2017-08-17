@@ -258,8 +258,6 @@ string
 iostream
 -
 
-/home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/ROSLogWriter.hpp
-
 /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/StreamLogWriter.hpp
 eeros/logger/LogWriter.hpp
 -
@@ -469,8 +467,6 @@ ros/console.h
 -
 ros/ros.h
 -
-std_msgs/String.h
-/home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/std_msgs/String.h
 sstream
 -
 eeros/hal/HAL.hpp
@@ -484,8 +480,6 @@ eeros/safety/SafetySystem.hpp
 eeros/logger/Logger.hpp
 -
 eeros/logger/StreamLogWriter.hpp
--
-eeros/logger/ROSLogWriter.hpp
 -
 control/controlSystem/MyControlSystem.hpp
 /home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/MyControlSystem.hpp
@@ -1189,22 +1183,6 @@ std_msgs/Header.h
 -
 
 /opt/ros/kinetic/include/std_msgs/Header.h
-string
--
-vector
--
-map
--
-ros/types.h
--
-ros/serialization.h
--
-ros/builtin_message_traits.h
--
-ros/message_operations.h
--
-
-/opt/ros/kinetic/include/std_msgs/String.h
 string
 -
 vector

@@ -1,8 +1,0 @@
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/./setup.sh
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/./env.sh
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/./setup.bash
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/./setup.zsh
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/./_setup_util.py
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/lib/pkgconfig/catkin_tools_prebuild.pc
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig.cmake
-Symlinking /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/share/catkin_tools_prebuild/cmake/catkin_tools_prebuildConfig-version.cmake

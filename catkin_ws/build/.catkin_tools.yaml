@@ -1,6 +1,0 @@
-devel_space: /home/mgehrig2/git_repos/socketToRos/catkin_ws/devel
-install: true
-install_space: /home/mgehrig2/git_repos/socketToRos/catkin_ws/install
-profile: default
-source_space: /home/mgehrig2/git_repos/socketToRos/catkin_ws/src
-workspace: /home/mgehrig2/git_repos/socketToRos/catkin_ws

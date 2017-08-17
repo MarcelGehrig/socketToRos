@@ -1,8 +1,0 @@
-prefix=/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg
-
-Name: socketToRosPkg
-Description: Description of socketToRosPkg
-Version: 0.0.0
-Cflags: -I/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/include
-Libs: -L/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/socketToRosPkg/lib 
-Requires: 

@@ -1,1 +1,0 @@
-/home/mgehrig2/git_repos/socketToRos/catkin_ws/devel/.private/catkin_tools_prebuild/setup.bash

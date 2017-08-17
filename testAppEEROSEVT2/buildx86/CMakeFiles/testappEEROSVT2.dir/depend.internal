@@ -139,7 +139,6 @@ CMakeFiles/testappEEROSVT2.dir/main.cpp.o
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/LogEntry.hpp
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/LogWriter.hpp
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/Logger.hpp
- /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/ROSLogWriter.hpp
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/StreamLogWriter.hpp
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/logger/Writer.hpp
  /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/math/Matrix.hpp
@@ -219,6 +218,5 @@ CMakeFiles/testappEEROSVT2.dir/main.cpp.o
  /opt/ros/kinetic/include/sensor_msgs/FluidPressure.h
  /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
  /opt/ros/kinetic/include/std_msgs/Header.h
- /opt/ros/kinetic/include/std_msgs/String.h
  /opt/ros/kinetic/include/xmlrpcpp/XmlRpcDecl.h
  /opt/ros/kinetic/include/xmlrpcpp/XmlRpcValue.h

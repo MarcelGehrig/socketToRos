@@ -1,0 +1,3 @@
+/home/mgehrig2/git_repos/socketToRos/exampleEerosApp/buildx86/CMakeFiles/edit_cache.dir
+/home/mgehrig2/git_repos/socketToRos/exampleEerosApp/buildx86/CMakeFiles/rebuild_cache.dir
+/home/mgehrig2/git_repos/socketToRos/exampleEerosApp/buildx86/CMakeFiles/testappEEROSVT2.dir
