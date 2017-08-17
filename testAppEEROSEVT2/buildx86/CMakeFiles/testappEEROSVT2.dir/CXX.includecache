@@ -83,9 +83,11 @@ eeros/control/Input.hpp
 -
 
 /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/control/ROS/RosBlockPublisherDouble.hpp
+eeros/core/System.hpp
+-
 eeros/control/ROS/RosBlockPublisher.hpp
 -
-eeros/control/ROS/msg/float64_header.h
+sensor_msgs/FluidPressure.h
 -
 
 /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/control/ROS/RosBlockSubscriber.hpp
@@ -100,24 +102,6 @@ eeros/control/Output.hpp
 eeros/core/System.hpp
 -
 eeros/math/Matrix.hpp
--
-
-/home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/control/ROS/msg/float64_header.h
-string
--
-vector
--
-map
--
-ros/types.h
--
-ros/serialization.h
--
-ros/builtin_message_traits.h
--
-ros/message_operations.h
--
-std_msgs/Header.h
 -
 
 /home/mgehrig2/git_repos/socketToRos/installx86/include/eeros/control/Signal.hpp
@@ -421,6 +405,8 @@ RosBlockSubscriber_SensorMsgs_LaserScan.hpp
 /home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/RosBlockSubscriber_SensorMsgs_LaserScan.hpp
 RosBlockPublisher_SensorMsgs_LaserScan.hpp
 /home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/RosBlockPublisher_SensorMsgs_LaserScan.hpp
+StandaloneClientBlock.hpp
+/home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/StandaloneClientBlock.hpp
 
 /home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/Print.hpp
 eeros/control/Block1i.hpp
@@ -444,6 +430,30 @@ eeros/control/ROS/RosBlockSubscriber.hpp
 eeros/core/System.hpp
 -
 sensor_msgs/LaserScan.h
+-
+
+/home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/controlSystem/StandaloneClientBlock.hpp
+eeros/control/Block.hpp
+-
+eeros/core/System.hpp
+-
+iostream
+-
+string.h
+-
+unistd.h
+-
+arpa/inet.h
+-
+iostream
+-
+array
+-
+unistd.h
+-
+netdb.h
+-
+arpa/inet.h
 -
 
 /home/mgehrig2/git_repos/socketToRos/testAppEEROSEVT2/control/safetySystem/MySafetyProperties.hpp
@@ -1141,6 +1151,24 @@ ros/forwards.h
 /opt/ros/kinetic/include/ros/ros/forwards.h
 
 /opt/ros/kinetic/include/rosconsole/macros_generated.h
+
+/opt/ros/kinetic/include/sensor_msgs/FluidPressure.h
+string
+-
+vector
+-
+map
+-
+ros/types.h
+-
+ros/serialization.h
+-
+ros/builtin_message_traits.h
+-
+ros/message_operations.h
+-
+std_msgs/Header.h
+-
 
 /opt/ros/kinetic/include/sensor_msgs/LaserScan.h
 string

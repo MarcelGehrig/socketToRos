@@ -11,6 +11,8 @@
 #include "RosBlockSubscriber_SensorMsgs_LaserScan.hpp"
 #include "RosBlockPublisher_SensorMsgs_LaserScan.hpp"
 
+#include "StandaloneClientBlock.hpp"
+
 using namespace eeros::control;
 
 class MyControlSystem {		
@@ -24,14 +26,18 @@ public:
 	Print<bool> printBool0;
 	
 	
-	typedef eeros::math::Matrix< 5, 1, double >		TRangesOutput;
-	typedef eeros::math::Matrix< 5, 1, double >		TIntensitiesOutput;
-	RosBlockSubscriber_SensorMsgs_LaserScan<TRangesOutput, TIntensitiesOutput>	laserScanIn;
+// 	typedef eeros::math::Matrix< 5, 1, double >		TRangesOutput;
+// 	typedef eeros::math::Matrix< 5, 1, double >		TIntensitiesOutput;
+// 	RosBlockSubscriber_SensorMsgs_LaserScan<TRangesOutput, TIntensitiesOutput>	laserScanIn;
 // 	typedef eeros::math::Matrix< 5, 1, double >		TRangesInput;
 // 	typedef eeros::math::Matrix< 5, 1, double >		TIntensitiesInput;
 // 	RosBlockPublisher_SensorMsgs_LaserScan<TRangesInput, TIntensitiesInput>		laserScanOut;
 	
+	StandaloneClientBlock<double> tcpClient0;
+	
 	RosBlockPublisherDouble rosBlockPublisherDouble0;
+	RosBlockPublisherDouble rosBlockPublisherDouble1;
+	RosBlockPublisherDouble rosBlockPublisherDouble2;
 
 	//HAL
 // 	PeripheralInput<double>		analogIn0;

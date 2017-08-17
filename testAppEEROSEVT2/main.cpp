@@ -27,7 +27,7 @@ void signalHandler(int signum) {
 }
 
 int main(int argc, char **argv) {
-	double dt = 0.2;
+	double dt = 0.001;
 	
 	// Create and initialize logger
 	// ////////////////////////////////////////////////////////////////////////
